@@ -1,0 +1,5 @@
+/workspaces/calculator_qt/build/CMakeFiles/QtCMakeApp.dir
+/workspaces/calculator_qt/build/CMakeFiles/edit_cache.dir
+/workspaces/calculator_qt/build/CMakeFiles/rebuild_cache.dir
+/workspaces/calculator_qt/build/CMakeFiles/QtCMakeApp_autogen_timestamp_deps.dir
+/workspaces/calculator_qt/build/CMakeFiles/QtCMakeApp_autogen.dir

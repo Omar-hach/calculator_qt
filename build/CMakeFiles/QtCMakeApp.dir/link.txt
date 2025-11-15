@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/QtCMakeApp.dir/QtCMakeApp_autogen/mocs_compilation.cpp.o CMakeFiles/QtCMakeApp.dir/main.cpp.o -o QtCMakeApp  /usr/lib/x86_64-linux-gnu/libQt6Widgets.so.6.4.2 /usr/lib/x86_64-linux-gnu/libQt6Gui.so.6.4.2 /usr/lib/x86_64-linux-gnu/libQt6Core.so.6.4.2 /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so 
