@@ -1,0 +1,19 @@
+>>comand  in bash1:
+
+websockify --web=/usr/share/novnc 6080 localhost:5900 &
+
+>>comand  in bash2:
+
+sudo apt-get install xvfb x11vnc 
+
+
+Xvfb :99 -screen 0 1024x768x16 &
+export DISPLAY=:99
+export QT_QPA_PLATFORM=vnc
+
+export XDG_RUNTIME_DIR=/tmp/runtime-codespace
+mkdir -p $XDG_RUNTIME_DIR
+chmod 700 $XDG_RUNTIME_DIR
+
+cmake --build build && build/QtCMakeApp
+
